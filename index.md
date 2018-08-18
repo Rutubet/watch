@@ -4,32 +4,43 @@
 
 ### 2018-06-21(Beat0.0.1a)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+通过更新cap来增加代码可读性
+把形状统一归为MPShape类
 
-```markdown
-Syntax highlighted code block
+### 2018-06-21(Beat0.0.1b)
 
-# Header 1
-## Header 2
-### Header 3
+把按钮优化了一下，增加代码可读性
 
-- Bulleted
-- List
+### 2018-06-30(Beta0.0.1c)
 
-1. Numbered
-2. List
+增加3个按钮，一个在右边，两个分别在上右和上左。
+更新的同时发现cap的缺陷并更新
+由于未知原因，MPShape创建的Shape很奇葩
 
-**Bold** and _Italic_ and `Code` text
+### 2018-7-1(Beta0.0.1d)
 
-[Link](url) and ![Image](src)
-```
+设置upRightBtn关闭Watch
+修复2018-6-30发现的bug，其实质为MPButton类的public void setBounds(int x, int y)方法出错。
+优化MPShape类，不会有那么多重复的点了
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 2018-7-3(Beta0.0.1e)
 
-### Jekyll Themes
+在cap中添加NixieTube类，起到数码管的功能
+时间日期相关更新为java8的时间日期
+可能会加重CPU的负担从而引发卡顿
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rutubet/watch/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 2018-7-11(Beta0.0.1f)
 
-### Support or Contact
+更新了按钮的一个开场动画
+设置按钮已更新
+整理了一下代码
+更新了自动吸附
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 2018-7-12(Beta0.0.1g)
+
+更新了界面一开始缓慢从上到下展开的一个开场动画
+
+### 2018-8-16(cap)
+
+* cap更新了liren.math包，使得创建的坐标系可以缩放移动，函数可以正常绘制
+  > 得出经验,for循环千万不要用float或double,因为它们运算不准确，即使是那么一点点.
