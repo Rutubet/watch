@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## 说明
 
-You can use the [editor on GitHub](https://github.com/Rutubet/watch/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+此为Watch的计划列表及更新日志
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### 2018-06-21(Beat0.0.1a)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
