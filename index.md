@@ -46,7 +46,10 @@
 
 ### 2018-8-15(wav)
 更新了几个wav文件，打算用于watch
-</500Hz.wav>
+[500Hz.wav](/500Hz.wav)
+<audio controls>
+  <source src="500Hz.wav" type="audio/wav">
+</audio>
 [600Hz.wav](/600Hz.wav)
 [700Hz.wav](/700Hz.wav)
 [800Hz.wav](/800Hz.wav)
