@@ -64,7 +64,7 @@
 
 ------------------------------------
 ### 计划(预计更新内容,只是预计b,不一定是真的)
-#### 具体到代码的计划(不久之后的版本就会看见啦└(^o^)┘)
+#### 具体的计划(不久之后的版本就会看见啦└(^o^)┘)
 + OptionsFrame.java Options.java (设置界面)
 + Version.java Lanucher.java (自动版本更新，以及代码优化)
 + WebPanel.java CountDownPanel.java TimerPanel.java PlanPanel.java (网页面板，倒计时面包，计时器面包(秒表或者是正计时，都是同一个东西) ,计划面板)
