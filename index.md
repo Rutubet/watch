@@ -44,6 +44,16 @@
 拖动窗口只能在上分割线的上面，或者是下分割线的下面.
 ![picture](/imgs/2018.8.7.png)
 
+### 2018-8-15(wav)
+更新了几个wav文件，打算用于watch
+[500Hz.wav](/500Hz.wav)
+[600Hz.wav](/600Hz.wav)
+[700Hz.wav](/700Hz.wav)
+[800Hz.wav](/800Hz.wav)
+[900Hz.wav](/900Hz.wav)
+[1000Hz.wav](/1000Hz.wav)
+[ringing.wav](/ringing.wav)
+
 ### 2018-8-16(cap)
 * cap更新了liren.math包，使得创建的坐标系可以缩放移动，函数可以正常绘制
   > 得出经验,for循环千万不要用float或double,因为它们运算不准确，即使是那么一点点.更不要去用BigDecimal.
