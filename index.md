@@ -45,14 +45,14 @@
 ![picture](/imgs/2018.8.7.png)
 
 ### 2018-8-15(wav)
-更新了几个wav文件,先下载再打开,打算用于watch
-[500Hz.wav](https://github.com/Rutubet/watch/raw/master/wavs/500Hz.wav)
-[600Hz.wav](https://github.com/Rutubet/watch/raw/master/wavs/600Hz.wav)
-[700Hz.wav](https://github.com/Rutubet/watch/raw/master/wavs/700Hz.wav)
-[800Hz.wav](https://github.com/Rutubet/watch/raw/master/wavs/800Hz.wav)
-[900Hz.wav](https://github.com/Rutubet/watch/raw/master/wavs/900Hz.wav)
-[1000Hz.wav](https://github.com/Rutubet/watch/raw/master/wavs/1000Hz.wav)
-[ringing.wav](https://github.com/Rutubet/watch/raw/master/wavs/ringing.wav)
+更新了几个wav文件,先下载再打开,打算用于watch<br/>
+[500Hz.wav](https://github.com/Rutubet/watch/raw/master/wavs/500Hz.wav)<br/>
+[600Hz.wav](https://github.com/Rutubet/watch/raw/master/wavs/600Hz.wav)<br/>
+[700Hz.wav](https://github.com/Rutubet/watch/raw/master/wavs/700Hz.wav)<br/>
+[800Hz.wav](https://github.com/Rutubet/watch/raw/master/wavs/800Hz.wav)<br/>
+[900Hz.wav](https://github.com/Rutubet/watch/raw/master/wavs/900Hz.wav)<br/>
+[1000Hz.wav](https://github.com/Rutubet/watch/raw/master/wavs/1000Hz.wav)<br/>
+[ringing.wav](https://github.com/Rutubet/watch/raw/master/wavs/ringing.wav)<br/>
 
 ### 2018-8-16(cap)
 * cap更新了liren.math包，使得创建的坐标系可以缩放移动，函数可以正常绘制
