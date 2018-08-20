@@ -67,10 +67,14 @@
 * 尝试面板拖拽,成功，但无自动吸附
 * 添加数码管的底色，但在背景为黑色时不明显
 
+### 2018-8-20(Beta0.0.1l)
+* 添加设置窗口(UI是java自带的)
+* 有本地保存功能.
+* 修复了设置按钮不上下对齐的bug.
+
 ------------------------------------
 ### 计划(预计更新内容,只是预计,不一定是真的)
 #### 具体的计划(不久之后的版本就会看见啦└(^o^)┘)
-+ OptionsFrame.java Options.java (设置界面)
 + Version.java Lanucher.java (自动版本更新，以及代码优化)
 + WebPanel.java CountDownPanel.java TimerPanel.java PlanPanel.java (网页面板，倒计时面板，计时器面板(秒表或者是正计时，都是同一个东西) ,计划面板)
 + DebugFrame.java (watch的功能结构图)
