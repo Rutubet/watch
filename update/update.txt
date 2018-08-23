@@ -1,0 +1,2 @@
+version:0.0.2
+URL:dsfawefsdf;Local:Watch.jar;Updater:update;
