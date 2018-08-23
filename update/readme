@@ -1,0 +1,7 @@
+WATCH="watch";
+UPDATER="updater";
+
+KEY_VERSION="version";
+KEY_URL="URL";
+KEY_LOCAL="local";
+KEY_UPDATER="Updater";
