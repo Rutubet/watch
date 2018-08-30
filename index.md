@@ -107,7 +107,7 @@
 ### 计划(预计更新内容,只是预计,不一定是真的)
 #### 具体的计划(不久之后的版本就会看见啦└(^o^)┘)
 + Version.java Lanucher.java (自动版本更新，以及代码优化)
-+ WebPanel.java CountDownPanel.java TimerPanel.java PlanPanel.java (网页面板，倒计时面板，计时器面板(秒表或者是正计时，都是同一个东西) ,计划面板)
++ WebPanel.java CountDownPanel.java PlanPanel.java (网页面板，倒计时面板,计划面板)
 + DebugFrame.java (watch的功能结构图)
 + 等级系统 一开始是Lv.0,最高级时Lv.30,当前等级的经验值计算公式 Exp = 2<sup>Lv+2</sup> - 1 就是2的Lv＋2次方-1 每升一次级，经验值清零 比如0级升一级的经验就是2<sup>0+2</sup>-1 = 3，29级升30级时的经验就是2<sup>29+2</sup>-1 = 2147483647 int型的最大值 {满级是不可能满级的啦，这辈子都不可能满级的啦}
 + 经验系统 Watch每运行一小时就加1点经验. 其他的我还想不出来
