@@ -103,7 +103,7 @@
 * 修改了原星期三010000010000010为000010000101000
 * 测试了变色功能，实质为XOR mode
 
-## 2018-8-31 (Beta0.0.2 & cap)
+### 2018-8-31 (Beta0.0.2 & cap)
  * 修改了类AbstractSystem来使坐标系更人性化
  * 修改了Function类和RectangularCoordinateSystem类使其更人性化
  * 删除了AbstractAnimation类
