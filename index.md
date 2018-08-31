@@ -1,5 +1,5 @@
 ## 说明
-* 上一次改动本文档2018-08-30T12:42:08.576
+* 上一次改动本文档2018-08-31T21:33:10.889
 * 此为Watch和cap的更新计划列表及更新日志.
 * 最新版本 Beta0.0.2
 * 大小 82.3 KB (84,356 字节)
@@ -102,6 +102,13 @@
 ### 2018-8-30(Beta0.0.2 & cap)
 * 修改了原星期三010000010000010为000010000101000
 * 测试了变色功能，实质为XOR mode
+
+## 2018-8-31 (Beta0.0.2 & cap)
+ * 修改了类AbstractSystem来使坐标系更人性化
+ * 修改了Function类和RectangularCoordinateSystem类使其更人性化
+ * 删除了AbstractAnimation类
+ * 改IndependentAnimation类为Animation类
+ * 增加了AnimationManager类管理Animation
 
 ------------------------------------
 ### 计划(预计更新内容,只是预计,不一定是真的)
