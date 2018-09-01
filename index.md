@@ -110,7 +110,7 @@
  * 改IndependentAnimation类为Animation类
  * 增加了AnimationManager类管理Animation
 
-## 2018-9-1 (Beta0.0.2 & cap)
+### 2018-9-1 (Beta0.0.2 & cap)
  * 增加了liren.jar包，里面增加Jar类，用以运行Jar
  * 使用了Lanucher类简化Main类
  * 现在会自动更新了 
