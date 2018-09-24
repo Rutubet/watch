@@ -1,3 +1,2 @@
-version:0.0.2
-URL:https://github.com/Rutubet/watch/raw/master/update/test.txt;Local:mytest.text;Updater:watch;
+version:0.0.2lf
 URL:https://github.com/Rutubet/watch/raw/master/update/Watch.jar;Local:Watch.jar;Updater:updater;
