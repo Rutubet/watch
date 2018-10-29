@@ -1,37 +1,27 @@
 ## 说明
-* 上一次改动本文档2018-10-27T20:55:19.965
+* 上一次改动本文档2018-10-29T13:23:24.185
 * 此为Watch和cap的更新计划列表及更新日志.
-* 最新版本 Beta0.0.2j
+* 最新版本 Beta0.0.2k
 * 大小 289 KB (296,746 字节)
 * 占用空间 292 KB (299,008 字节)
 
-### OldUpdate
-* [before 2018.9.8](https://github.com/Rutubet/watch/raw/master/oldest.md)
+### 2018-10-29 (Beta0.0.2k)
+* watch新增自动保存，每加一点经验就会保存一次
+* 测试菜单按钮
 
+### 2018-10-27 (Beta0.0.2j & cap)
+* cap新增liren.opengl.object包,Camera类,用来简化OpenGL
+* cap新增liren.animation包，代替旧Animation，但仍在测试中
+* watch新增可以拖拽改变菜单上的按钮的位置
 
+### 2018-9-25 (cap)
+* 新增liren.opengl.basic包,Shdaer类
+* 用以简化在OpenGL中着色器的创建.
 
-### 2018-9-11 (Beta0.0.2c & cap)
-* 新增LightCreater接口
-* 优化NixieTube类
-* 测试等级和经验的显示
-* 2D物体运动理论上可实现
-
-### 2018-9-15 (Beta0.0.2d)
-* 确定等级和经验的显示方式
-
-### 2018-9-17 (Beta0.0.2e)
-* 测试等级系统，但结果失败
-
-### 2018-9-19 (Beta0.0.2f)
-* 测试等级系统成功，但还未无法获得经验
-
-### 2018-9-20 (Beta0.0.2g)
-* 增加经验系统，每一个小时会加一点经验。但还未实际测试
-* 发现bug 7E2.9.14.1
-
-### 2018-9-22 (Beta0.0.2h)
-* 修复若干与经验值和设置相关的bug
-* 新增设置：是否自动更新
+### 2018-9-24 (cap)
+* 新增liren.moveable包，World类,Scene类
+* 新增liren.moveable.object包,DisplayObject类,Point类,Line类
+* 增加数学演示的功能，目前只能创建点
 
 ### 2018-9-23 (Beta0.0.2i & cap)
 * 成功测试等级与经验系统
@@ -41,19 +31,32 @@
 * 学习OpenGL图形编程
 * 修复bug 7E2.9.14.1
 
-### 2018-9-24 (cap)
-* 新增liren.moveable包，World类,Scene类
-* 新增liren.moveable.object包,DisplayObject类,Point类,Line类
-* 增加数学演示的功能，目前只能创建点
+### 2018-9-22 (Beta0.0.2h)
+* 修复若干与经验值和设置相关的bug
+* 新增设置：是否自动更新
 
-### 2018-9-25 (cap)
-* 新增liren.opengl.basic包,Shdaer类
-* 用以简化在OpenGL中着色器的创建.
+### 2018-9-20 (Beta0.0.2g)
+* 增加经验系统，每一个小时会加一点经验。但还未实际测试
+* 发现bug 7E2.9.14.1
 
-### 2018-10-27 (Beta0.0.2j & cap)
-* cap新增liren.opengl.object包,Camera类,用来简化OpenGL
-* cap新增liren.animation包，代替旧Animation，但仍在测试中
-* watch新增可以拖拽改变菜单上的按钮的位置
+### 2018-9-19 (Beta0.0.2f)
+* 测试等级系统成功，但还未无法获得经验
+
+### 2018-9-17 (Beta0.0.2e)
+* 测试等级系统，但结果失败
+
+### 2018-9-15 (Beta0.0.2d)
+* 确定等级和经验的显示方式
+
+### 2018-9-11 (Beta0.0.2c & cap)
+* 新增LightCreater接口
+* 优化NixieTube类
+* 测试等级和经验的显示
+* 2D物体运动理论上可实现
+
+### OldUpdate
+* [before 2018.9.8](https://github.com/Rutubet/watch/raw/master/oldest.md)
+
 
 ------------------------------------
 ### 计划(预计更新内容,只是预计,不一定是真的)
